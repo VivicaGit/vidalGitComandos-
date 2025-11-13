@@ -1,0 +1,7 @@
+1-----
+$ git checkout -b primeras
+$ mkdir examen
+$ cd examen/
+$ mkdir una dos tres
+
+2-----
