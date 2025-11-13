@@ -11,3 +11,6 @@ $ touch una/nombre.txt
 3-----
 $ cd examen/dos/
 $ cp ../una/nombre.txt ../tres/
+
+$ git clone https://github.com/VivicaGit/vidalGitComandos-.git vidalClonado
+
