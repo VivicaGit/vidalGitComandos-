@@ -33,3 +33,4 @@ $ mv ../../edad.txt ./edad2.txt
 
 9-----
 $ cd ../../../
+$ rm -r examen/
